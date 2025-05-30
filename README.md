@@ -1,1 +1,1 @@
-# Gerador-QRCODE-links-textos
+projeto-QRcode
